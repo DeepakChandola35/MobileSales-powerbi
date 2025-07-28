@@ -12,7 +12,6 @@ This dashboard helps analyze:
 - 🔹 Weekly sales trends
 - 🔹 Customer ratings impact
 
-![Dashboard Screenshot](assets/dashboard-screenshot.png)
 
 ---
 
