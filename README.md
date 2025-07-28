@@ -15,6 +15,15 @@ This dashboard helps analyze:
 
 ---
 
+
+--- Screenshot---
+<img width="2214" height="1226" alt="Screenshot 2025-07-28 130501" src="https://github.com/user-attachments/assets/3fbd1534-0091-44e2-bd46-3bdbdee90043" />
+
+
+
+---
+
+
  📁 Folder Structure
 
 | Folder | Description |
